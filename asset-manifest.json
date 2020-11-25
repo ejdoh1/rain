@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rain/static/css/main.82849cb2.chunk.css",
+    "main.js": "/rain/static/js/main.937d6cd2.chunk.js",
+    "main.js.map": "/rain/static/js/main.937d6cd2.chunk.js.map",
+    "runtime-main.js": "/rain/static/js/runtime-main.1f5218fd.js",
+    "runtime-main.js.map": "/rain/static/js/runtime-main.1f5218fd.js.map",
+    "static/css/2.a4567992.chunk.css": "/rain/static/css/2.a4567992.chunk.css",
+    "static/js/2.40706ec1.chunk.js": "/rain/static/js/2.40706ec1.chunk.js",
+    "static/js/2.40706ec1.chunk.js.map": "/rain/static/js/2.40706ec1.chunk.js.map",
+    "index.html": "/rain/index.html",
+    "precache-manifest.40cb9fa446c99ef0a2ace89e306ba45a.js": "/rain/precache-manifest.40cb9fa446c99ef0a2ace89e306ba45a.js",
+    "service-worker.js": "/rain/service-worker.js",
+    "static/css/2.a4567992.chunk.css.map": "/rain/static/css/2.a4567992.chunk.css.map",
+    "static/css/main.82849cb2.chunk.css.map": "/rain/static/css/main.82849cb2.chunk.css.map",
+    "static/js/2.40706ec1.chunk.js.LICENSE.txt": "/rain/static/js/2.40706ec1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f5218fd.js",
+    "static/css/2.a4567992.chunk.css",
+    "static/js/2.40706ec1.chunk.js",
+    "static/css/main.82849cb2.chunk.css",
+    "static/js/main.937d6cd2.chunk.js"
+  ]
+}
